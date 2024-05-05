@@ -1,3 +1,0 @@
-git init
-git config commit.gpgsign true
-git remote add origin https://github.com/Roieeeoz/fight_for_postgraduate.git
